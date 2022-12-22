@@ -27,6 +27,7 @@ pip install -r requirements.txt
 Para ejecutar, puedes ejecutarlo de varias formas
 ```
 $ python check.py -h
+
 usage: check.py [-h] [--input INPUT] [--batch] [--status]
 
 Comrpueba los boletos de Loteria de Navidad
